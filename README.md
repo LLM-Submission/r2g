@@ -94,17 +94,6 @@ R2G is an advanced dashboard application designed to address the challenges of g
 
 ##  Modules
 
-<details closed><summary>.</summary>
-
-| File                                                                                    | Summary                                                                                                                                                                                                                                                                                                                                                      |
-| ---                                                                                     | ---                                                                                                                                                                                                                                                                                                                                                          |
-| [requirements.txt](https://github.com/submissiongiq/R2G/blob/master/requirements.txt)   | This code snippet, located in the frontend directory, is responsible for managing the backend logic of the chatGpt application. It includes files like Tumen_Chatbot_development_edition.py, chatGpt.controller.js, chat_fastapi_app.py, and langchain.js. These files handle the processing and communication between the frontend and the chatbot backend. |
-| [.gitignore](https://github.com/submissiongiq/R2G/blob/master/.gitignore)               | The code snippet is part of the R2G repository and is located in the frontend directory. It ignores the node_modules and frontend/node_modules folders when tracking changes in Git.                                                                                                                                                                         |
-| [package-lock.json](https://github.com/submissiongiq/R2G/blob/master/package-lock.json) | The `package-lock.json` file in the `R2G` repository stores the dependencies and their specific versions for the project. It ensures consistent builds across different development environments by locking down the exact versions of the dependencies required.                                                                                            |
-| [package.json](https://github.com/submissiongiq/R2G/blob/master/package.json)           | This code snippet, located in the package.json file, includes dependencies for the parent repository's architecture. It ensures compatibility and functionality by including packages for handling CORS and environment variables.                                                                                                                           |
-
-</details>
-
 <details closed><summary>frontend</summary>
 
 | File                                                                                             | Summary                                                                                                                                                                                                                                          |
